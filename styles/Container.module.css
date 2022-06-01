@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+  background: #F6F6F7;
+  padding: 0 72px;
+  margin-top: 16px;
+}
+
+.cart {
+  color: #888;
+  font-size: 12px;
+}
+
+.container {
+  padding: 0 56px;
+}
+

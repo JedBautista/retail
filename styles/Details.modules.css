@@ -1,0 +1,17 @@
+.twoLayout {
+  display: flex;
+  height: 80vh;
+  width: 100%;
+  margin-top: 16px;
+}
+
+.item {
+  display: flex;
+  justify-content: end;
+  height: 576px;
+
+}
+
+.details {
+
+}
